@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+}
+body{
+    margin: 0;
+}
+header{
+    padding: 50px;
+    text-align: center;
+    background-color: khaki;
+    color: white;
+
+}
+h1{
+    color: blue;
+    font-size: 50px;
+}
+nav{
+    background-color: grey;
+    overflow: hidden;
+}
+a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+    float: left;
+    
+}
+section{
+    text-align: center;
+}
